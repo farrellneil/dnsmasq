@@ -1,0 +1,8 @@
+#10000-no ibm
+address=/.imb.com/0.0.0.0
+address=/.titanhq.com/0.0.0.0
+address=/.dublinzoo.ie/0.0.0.0
+address=/.rte.ie/0.0.0.0
+address=/.cie.ie/0.0.0.0
+add-cpe-id=DNA-DEADBEEFCAFEa
+Server=/www.apple.com/212.58.244.68
